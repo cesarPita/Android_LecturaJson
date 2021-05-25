@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="botones_flotantes">16dp</dimen>
+    <dimen name="margen_actividad">10dp</dimen>
+</resources>
