@@ -12,7 +12,7 @@
     <ImageView
         android:id="@+id/portada_det"
         android:layout_width="match_parent"
-        android:layout_height="300dp"/>
+        android:layout_height="400dp"/>
     <TextView
         android:id="@+id/titulo_det"
         android:textAlignment="center"

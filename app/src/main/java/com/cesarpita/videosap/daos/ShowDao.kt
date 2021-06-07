@@ -1,5 +1,5 @@
 package com.cesarpita.videosap.daos
-
+/*
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
@@ -17,3 +17,4 @@ interface ShowDao {
     @Query("SELECT * FROM show WHERE name LIKE '%'||:filtro||'%'")
     fun listaPeliculas(filtro:String):List<Show>
 }
+ */

@@ -1,5 +1,5 @@
 package com.cesarpita.videosap.daos
-
+/*
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
@@ -19,3 +19,4 @@ interface ImagenesDao {
     @Query("SELECT * FROM imagenes")
     fun lecturaMultiple():List<ShowImage>
 }
+*/

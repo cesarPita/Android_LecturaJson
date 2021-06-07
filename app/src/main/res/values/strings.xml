@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Peliculas-AP</string>
+    <string name="app_name">MyC</string>
     <string name="buscar">Buscar</string>
     <string name="no_encontrado">No se encontraron resultados.</string>
     <string name="buscando">Buscando</string>

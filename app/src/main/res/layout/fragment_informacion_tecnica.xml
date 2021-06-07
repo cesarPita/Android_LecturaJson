@@ -33,7 +33,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:text="Runtime:"
+                android:text="Año:"
                 android:layout_weight="3"/>
             <TextView
                 android:id="@+id/runtime_peli_f2"
@@ -50,7 +50,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:text="Géneros:"
+                android:text="Estados:"
                 android:layout_weight="3"/>
             <TextView
                 android:id="@+id/genero_peli_f2"
@@ -67,7 +67,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:text="Premiere:"
+                android:text="Fecha:"
                 android:layout_weight="3"/>
             <TextView
                 android:id="@+id/premiere_peli_f2"
