@@ -1,5 +1,5 @@
 package com.cesarpita.videosap.daos
-/*
+
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
@@ -17,4 +17,3 @@ interface ShowPreferidoDao {
     @Update
     fun modificar(preferido: ShowPreferido)
 }
- */

@@ -1,14 +1,12 @@
 package com.cesarpita.videosap.modelos
-/*
+
 import androidx.room.Embedded
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-*/
-
 import java.io.Serializable
-//@Entity(tableName = "show")
+@Entity(tableName = "show")
 data class Show (
-  //  @PrimaryKey
+    @PrimaryKey
     val id:Int,
     val url:String?,
     val name:String,
@@ -18,6 +16,6 @@ data class Show (
     val runtime:Int,
     val summary:String?,
     val premiered:String?,
-    //@Embedded
+    @Embedded
     val image:ShowImage
 ):Serializable

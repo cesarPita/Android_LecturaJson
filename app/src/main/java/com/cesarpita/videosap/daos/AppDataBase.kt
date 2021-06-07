@@ -1,5 +1,5 @@
 package com.cesarpita.videosap.daos
-/*
+
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
@@ -34,9 +34,8 @@ abstract class AppDatabase : RoomDatabase() {
                 ).fallbackToDestructiveMigration().build()
                 INSTANCE = instance
                 return instance
-//                instance
+                //instance
             }
         }
     }
 }
-*/
